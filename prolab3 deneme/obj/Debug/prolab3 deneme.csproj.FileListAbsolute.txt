@@ -1,0 +1,12 @@
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\obj\Debug\prolab3 deneme.csproj.AssemblyReference.cache
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\obj\Debug\prolab3 deneme.csproj.CoreCompileInputs.cache
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\prolab3 deneme.exe.config
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\prolab3 deneme.exe
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\prolab3 deneme.pdb
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\obj\Debug\prolab3 deneme.csproj.CopyComplete
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\obj\Debug\prolab3 deneme.exe
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\obj\Debug\prolab3 deneme.pdb
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\Microsoft.Msagl.dll
+C:\Users\skrrrt\source\repos\prolab3 deneme\prolab3 deneme\bin\Debug\Microsoft.Msagl.xml
