@@ -6,6 +6,8 @@ As second process, It creates trees according to the received user following-fol
 
 After the program processing is completed, the relationships between users are found on the console by using tree navigation algorithms as showed below.
 
+Each user's area of ​​interest can be found, subtrees of users can be found, the shortest follower path from one user to another can be found, other users can be found through the area of ​​interest, interests can be found by country.
+
 
 
 
